@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions..SCM demo on June 12 2022 Bengaluru,Karnataka India 5600301</h1>
-	<h1 align="center"> Mithun Software Solutions-<i>Lets check the Git web Hooks</i> Very Good Training  SKVHKcenter hope so for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+	<h1 align="center"> Mithun Software Solutions-Lets check the Git web Hooks Very Good Training  SKVHKcenter hope so for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
