@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>SKVHK FAcebook Releases Nexus Repository</name>
-	      <url>http://65.1.100.208:9980/skvhk/repository/facebook-snapshot/</url>
+	      <url>http://13.232.225.125:8081/skvhk/repository/facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Facebook Skvhk Snapshot Nexus Repository </name>
-	      <url>http://65.1.100.208:9980/skvhk/repository/facebook-snapshot/</url>
+	      <url>http://13.232.225.125:8081/skvhk/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
